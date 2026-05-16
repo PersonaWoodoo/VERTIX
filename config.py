@@ -1,0 +1,19 @@
+# ==================== НАСТРОЙКИ ====================
+
+CURRENCY_NAME = "VIRTEX"
+MIN_BET = 10
+ADMIN_IDS = [8293927811, 8478884644]
+CHANNEL_ID = "@VIRTEXCHANEL"
+CHAT_ID = "@VIRTEXCHATW"
+
+BANK_TERMS = {
+    7: 0.03,
+    14: 0.07,
+    30: 0.18,
+}
+
+LEGACY_GOLD_MULTIPLIERS = [2, 4, 8, 16, 32, 64, 128, 256, 512, 1024, 2048, 4096]
+TOWER_MULTIPLIERS = [1.20, 1.48, 1.86, 2.35, 2.95, 3.75, 4.85, 6.15, 8.0]
+DIAMOND_MULTIPLIERS = [1.12, 1.28, 1.48, 1.72, 2.02, 2.4, 2.92, 3.6, 4.5, 5.6, 7.0, 8.8, 11.0, 13.8, 17.3, 21.6]
+FOOTBALL_MULTIPLIERS = {"gol": 1.6, "mimo": 2.2}
+RED_NUMBERS = {1, 3, 5, 7, 9, 12, 14, 16, 18, 19, 21, 23, 25, 27, 30, 32, 34, 36}

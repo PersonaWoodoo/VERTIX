@@ -1,0 +1,40 @@
+# База данных
+bot_db.sqlite
+bot_db.sqlite-*
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Логи
+*.log
+logs/
+
+# Виртуальное окружение
+venv/
+env/
+.venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Файлы окружения
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Гифки и медиа (опционально)
+anim*.mp4
+*.gif
